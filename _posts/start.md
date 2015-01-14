@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lista Serwerów Minecraft
+title: Start
 ---
 
-o
+Witaj swiecie !
